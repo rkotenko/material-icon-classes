@@ -11,4 +11,4 @@ With css file
    
     <i class="material-icons icon-book"></i>
 
-Of course, you will need to include the @font-face and material-icons classes. Create a stylesheet link to this: https://fonts.googleapis.com/icon?family=Material+Icons 
+Of course, you will need to include the @font-face and material-icons class. Create a stylesheet link to this: https://fonts.googleapis.com/icon?family=Material+Icons 
